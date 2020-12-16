@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "student_name": "Yahoo Baba",
+        "age": "25",
+        "city": "Delhi"
+    },
+    {
+        "id": "2",
+        "student_name": "Salman Khan",
+        "age": "24",
+        "city": "Agra"
+    },
+    {
+        "id": "3",
+        "student_name": "Shahid Kapoor",
+        "age": "24",
+        "city": "Bhopal"
+    },
+    {
+        "id": "4",
+        "student_name": "Juhi Chawla",
+        "age": "26",
+        "city": "Delhi"
+    },
+    {
+        "id": "5",
+        "student_name": "Katrina Kaif",
+        "age": "23",
+        "city": "Mumbai"
+    }
+]

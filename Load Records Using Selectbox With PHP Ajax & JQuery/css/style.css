@@ -1,0 +1,50 @@
+body{
+  font-family: arial;
+  background: #b2bec3;
+  padding:0;
+  margin: 0;
+}
+#main{
+  width: 800px;
+  margin: 0 auto;
+  background: white;
+  font-size: 19px;
+}
+#header{
+  color: #fff;
+  background: #16817a;
+  text-align: center;
+}
+h1{
+  margin: 15px;
+}
+
+#table-form{
+  background: #e8c9a1;
+  text-align: center;
+  padding: 20px 10px;
+}
+#table-form select{
+  width: 180px;
+  height: 36px;
+  font-size: 18px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  border: 1px solid green;
+  outline: 0;
+}
+
+#table-data{
+  padding: 15px;
+  height: 500px;
+  vertical-align: top;
+}
+#table-data th{
+  color: #fff;
+  background: #fa744f;
+}
+#table-data tr:nth-child(odd){
+  background: #ecf0f1;
+}
+
+
