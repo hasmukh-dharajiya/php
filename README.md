@@ -11,4 +11,7 @@ View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/t
 
 ![Basic PHP CRUD](https://github.com/hasmukh-dharajiya/php/blob/main/Basic%20PHP%20CRUD/Basic%20PHP%20CRUD.PNG)
 
+## 3. Create Dynamic JSON File With PHP
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Create%20Dynamic%20JSON%20File%20With%20PHP)
 
+![BCreate Dynamic JSON File With PHP](https://github.com/hasmukh-dharajiya/php/blob/main/Create%20Dynamic%20JSON%20File%20With%20PHP/Create%20Dynamic%20JSON.PNG)
