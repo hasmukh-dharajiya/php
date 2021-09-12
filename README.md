@@ -15,3 +15,8 @@ View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/t
 View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Create%20Dynamic%20JSON%20File%20With%20PHP)
 
 ![BCreate Dynamic JSON File With PHP](https://github.com/hasmukh-dharajiya/php/blob/main/Create%20Dynamic%20JSON%20File%20With%20PHP/Create%20Dynamic%20JSON.PNG)
+
+## 4 Delete Multiple Records Using Checkbox With PHP Ajax & JQuery
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Delete%20Multiple%20Records%20Using%20Checkbox%20With%20PHP%20Ajax%20%26%20JQuery)
+
+![Delete Multiple Records Using Checkbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/Delete%20Multiple%20Records%20Using%20Checkbox%20With%20PHP%20Ajax%20%26%20JQuery/Delete%20Multiple%20Records%20Using%20Checkbox%20With%20PHP%20Ajax%20%26%20JQuery.PNG)
