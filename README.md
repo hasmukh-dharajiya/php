@@ -25,3 +25,10 @@ View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/b
 View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/tree/main/Autocomplete%20Textbox%20With%20PHP%20Ajax%20%26%20JQuery)
 
 ![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/Autocomplete%20Textbox%20With%20PHP%20Ajax%20%26%20JQuery/PHP%20Ajax%20AutoComplete%20Textbox.PNG)
+
+## 6. Load Records Using Selectbox With PHP Ajax & JQuery
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Load%20Records%20Using%20Selectbox%20With%20PHP%20Ajax%20%26%20JQuery)
+
+![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/Load%20Records%20Using%20Selectbox%20With%20PHP%20Ajax%20%26%20JQuery/Load%20Records%20Using%20Selectbox%20With%20PHP%20Ajax%20%26%20JQuery.PNG)
+
+
