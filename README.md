@@ -50,3 +50,8 @@ View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/b
 View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20REST%20API%20CRUD%20Application)
 
 ![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20REST%20API%20CRUD%20Application/PHP%20REST%20API%20CRUD%20Application.PNG)
+
+## 11. PHP Save Form Data With Ajax & JQuery $.Post Method
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method)
+
+![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method.PNG)
