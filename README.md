@@ -55,3 +55,13 @@ View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/b
 View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method)
 
 ![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method/PHP%20Save%20Form%20Data%20With%20Ajax%20%26%20JQuery%20%24.Post%20Method.PNG)
+
+## 12. Serialize Form Data With PHP And Ajax
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Serialize%20Form%20Data%20With%20PHP%20And%20Ajax)
+
+![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/Serialize%20Form%20Data%20With%20PHP%20And%20Ajax/Serialize%20Form%20Data%20With%20PHP%20And%20Ajax.PNG)
+
+## 13. Upload & Remove Image With PHP Ajax & JQuery
+View Full Source Code .. [Click Here](https://github.com/hasmukh-dharajiya/php/blob/main/Upload%20%26%20Remove%20Image%20With%20PHP%20Ajax%20%26%20JQuery)
+
+![Autocomplete Textbox With PHP Ajax & JQuery](https://github.com/hasmukh-dharajiya/php/blob/main/Upload%20%26%20Remove%20Image%20With%20PHP%20Ajax%20%26%20JQuery/Upload%20%26%20Remove%20Image%20With%20PHP%20Ajax%20%26%20JQuery.PNG)
